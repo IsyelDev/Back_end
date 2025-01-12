@@ -6,7 +6,7 @@ Este es un proyecto de ejemplo desarrollado en JavaScript. Este archivo README p
 
 Este proyecto tiene como objetivo demostrar las capacidades de JavaScript en la creación de aplicaciones web interactivas. Abarca conceptos básicos y avanzados, y está diseñado para ser utilizado tanto por desarrolladores novatos como experimentados.
 
-## Instalación
+## Instalación de git clone
 
 Para comenzar con el proyecto, sigue los pasos a continuación:
 
